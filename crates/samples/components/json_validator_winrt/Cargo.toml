@@ -9,7 +9,7 @@ name = "sample"
 crate-type = ["cdylib"]
 
 [dependencies]
-jsonschema = "0.17"
+jsonschema = "0.18"
 serde_json = "1.0"
 
 [dependencies.windows]
